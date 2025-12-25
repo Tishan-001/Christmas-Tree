@@ -2,7 +2,7 @@
 
 An interactive, high-performance 3D Christmas Tree built with Three.js, featuring metallic PBR materials, dynamic transitions, and background music.
 
-![Recording of the Christmas Tree](video/demo.webp)
+![Recording of the Christmas Tree](video/demo.mp4)
 
 ## ✨ Features
 
